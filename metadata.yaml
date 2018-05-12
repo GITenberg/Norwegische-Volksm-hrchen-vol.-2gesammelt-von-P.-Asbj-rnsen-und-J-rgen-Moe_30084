@@ -42,6 +42,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34178
     wikipedia: http://en.wikipedia.org/wiki/J%C3%B8rgen_Moe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30084#Norwegische-Volksm-hrchen-vol.-2gesammelt-von-P.-Asbj-rnsen-und-J-rgen-Moe
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2009-09-25'
 gutenberg_type: Text
