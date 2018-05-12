@@ -1,0 +1,61 @@
+_repo: Norwegische-Volksm-hrchen-vol.-2gesammelt-von-P.-Asbj-rnsen-und-J-rgen-Moe_30084
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Tieck, Ludwig
+    aliases:
+    - Tieck, L. (Ludwig)
+    - Tieck, Johann Ludwig
+    birthdate: 1773
+    deathdate: 1853
+    gutenberg_agent_id: '31945'
+    url: http://www.gutenberg.org/2009/agents/31945
+  translator:
+    agent_name: Bresemann, Friederich
+    birthdate: 1809
+    deathdate: 1850
+    gutenberg_agent_id: '34182'
+    url: http://www.gutenberg.org/2009/agents/34182
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Asbjørnsen, Peter Christen
+    aliases:
+    - Asbjörnsen, P. Chr.
+    - Asbjørnsen, P. C. (Peter Christen)
+    - Asbjornsen, Peter Christen
+    - Bonifacius, Clemens
+    birthdate: 1812
+    deathdate: 1885
+    gutenberg_agent_id: '34177'
+    url: http://www.gutenberg.org/2009/agents/34177
+    wikipedia: http://en.wikipedia.org/wiki/Peter_Christen_Asbj%C3%B8rnsen
+  - agent_name: Moe, Jørgen Engebretsen
+    aliases:
+    - Moe, Jorgen Engebretsen
+    - Moe, J. E. (Jørgen Engebretsen)
+    birthdate: 1813
+    deathdate: 1882
+    gutenberg_agent_id: '34178'
+    url: http://www.gutenberg.org/2009/agents/34178
+    wikipedia: http://en.wikipedia.org/wiki/J%C3%B8rgen_Moe
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2009-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30084'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fairy tales'
+- !lcsh 'Tales -- Norway'
+title: 'Norwegische Volksmährchen vol. 2
+
+  gesammelt von P. Asbjörnsen und Jörgen Moe'
+url: http://www.gutenberg.org/ebooks/30084
